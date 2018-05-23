@@ -15,13 +15,12 @@ The command line is a powerful tool, but is not very user friendly. This project
 <!--
 <a href="https://terminaloverflow.com/framework/" target="_blank">Watch the video demo here (15 seconds).</a>
 -->
-----
+
 ## Content
 * QuickStart
-* Demo
+* Overview Diagram
 * Contact Info
 
-----
 ## Quick Start
 
 1. **Install:**
@@ -33,11 +32,9 @@ The command line is a powerful tool, but is not very user friendly. This project
   terminaloverflow
   ```
 
-----
 ## Overview Diagram
 <img  src="./docs/gcloud_terminal_overflow.png" />
 
-----
 ## Contact
 
 David Zentner dazcode@gmail.com
