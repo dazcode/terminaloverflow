@@ -10,7 +10,7 @@ The command line is a powerful tool, but is not very user friendly. This project
 * Mouse & keyboard navigation
 * Customize and link helper containers to understand commands and options
 * Leverage multiple command data sources: history, recommended, and saved commands
-* Designed for use in terminals such as Google Cloud Console
+* Designed for use in terminals such as Google Cloud Shell
 
 
 <!--
