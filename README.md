@@ -1,4 +1,8 @@
+* Pre-release for concept purposes only! Does not fully work yet!
+
 # Terminal-Overflow
+
+
 
 The command line is a powerful tool, but is not very user friendly. This project will give you an edge and save you time when you need to find, put together, and run a command. Features:
 
@@ -6,6 +10,7 @@ The command line is a powerful tool, but is not very user friendly. This project
 * Mouse & keyboard navigation
 * Customise and link helper containers
 * Leverage multiple data sources
+* Designed for use in Google Cloud Console
 
 <!--
 <a href="https://terminaloverflow.com/framework/" target="_blank">Watch the video demo here (15 seconds).</a>
@@ -21,7 +26,7 @@ The command line is a powerful tool, but is not very user friendly. This project
 
 1. **Install:**
   ```bash
-  pip install terminaloverflow
+  sudo pip install terminaloverflow
   ```
 2. **Run:**
   ```bash
@@ -31,6 +36,7 @@ The command line is a powerful tool, but is not very user friendly. This project
 ----
 ## Overview Diagram
 <img  src="./docs/gcloud_terminal_overflow.png" />
+
 ----
 ## Contact
 
