@@ -1,4 +1,4 @@
-* Pre-release for concept purposes only! Does not fully work yet!
+* Pre-release for concept purposes only. Does not fully work yet!
 
 # Terminal-Overflow
 
@@ -32,6 +32,9 @@ The command line is a powerful tool, but is not very user friendly. This project
   ```bash
   terminaloverflow
   ```
+3.  **Configure:**
+
+To configure options, press CTRL+R or Click the green '--Terminal-Overflow' header in the console.
 
 ## Screenshot
 <img  src="./docs/gcloud_terminal_overflow.png" />
