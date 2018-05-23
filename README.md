@@ -8,9 +8,10 @@ The command line is a powerful tool, but is not very user friendly. This project
 
 * Visual Experience
 * Mouse & keyboard navigation
-* Customise and link helper containers
-* Leverage multiple data sources
-* Designed for use in Google Cloud Console
+* Customize and link helper containers to understand commands and options
+* Leverage multiple command data sources: history, recommended, and saved commands
+* Designed for use in terminals such as Google Cloud Console
+
 
 <!--
 <a href="https://terminaloverflow.com/framework/" target="_blank">Watch the video demo here (15 seconds).</a>
