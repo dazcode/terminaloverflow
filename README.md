@@ -19,7 +19,7 @@ The command line is a powerful tool, but is not very user friendly. This project
 
 ## Content
 * QuickStart
-* Overview Diagram
+* Screenshot
 * Contact Info
 
 ## Quick Start
@@ -33,7 +33,7 @@ The command line is a powerful tool, but is not very user friendly. This project
   terminaloverflow
   ```
 
-## Overview Diagram
+## Screenshot
 <img  src="./docs/gcloud_terminal_overflow.png" />
 
 ## Contact
